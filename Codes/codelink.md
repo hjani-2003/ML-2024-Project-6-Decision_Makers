@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KathanrDave/ML-2024-Project-6-Decision_Makers/blob/master/Codes/ML_Project.ipynb)
